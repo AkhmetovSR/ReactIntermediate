@@ -1,0 +1,22 @@
+.md{
+  display: grid;
+  grid-template-columns: 10% 20% 15% 15% 15% 15% 10%;
+}
+
+.md a{
+  color: rgb(27, 27, 27);
+  text-decoration: none;
+}
+
+.cart{
+  border-radius: 5px;
+  background-color: rgb(6, 135, 255);
+  padding: 5px;
+  height: 100px;
+  color: antiquewhite;
+  border: none;
+}
+
+.head{
+  background-color: rgb(64, 250, 120);
+}

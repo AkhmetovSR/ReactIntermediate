@@ -1,0 +1,22 @@
+.md{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 8%;
+    margin-top: 2%;
+}
+
+.md main{
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    box-shadow: 3px 3px 5px 1px;
+    padding: 5%;
+}
+
+.md button{
+    background-color: rgb(64, 250, 120);
+    margin-left: 10%;
+    width: 80%;
+    border: none;
+    border-radius: 5px;
+}
